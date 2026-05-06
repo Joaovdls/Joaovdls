@@ -1,77 +1,89 @@
-<div align="center">
+<h1 align="center">João Victor</h1>
+<h3 align="center">Full Stack Developer · .NET · React · Java · Cloud</h3>
 
-# João Victor
-
-### Full Stack Developer
-
-Transformando café em código — e código em soluções que fazem sentido.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-sts)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_ssldvj)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511960929880?text=Olá!%20Vi%20seu%20GitHub%20e%20quero%20falar%20com%20você)
-[![E-mail](https://img.shields.io/badge/E--mail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:joaovdls@hotmail.com)
-
-</div>
-
----
-
-## Sobre mim
-
-Desenvolvedor Full Stack com experiência na construção de aplicações completas, do front ao back-end, com foco em performance, boas práticas e escalabilidade.
-
-Atuo no desenvolvimento de chatbots com **Microsoft Bot Framework** e **BLiP**, integração com APIs e serviços externos, e tenho experiência com plataformas de nuvem como **Azure** e **AWS**. No dia a dia, utilizo **Azure DevOps** e **Jira** para gestão de entregas com metodologias ágeis.
-
-Sempre em evolução, buscando criar soluções que realmente geram impacto.
+<p align="center">
+  <a href="https://www.linkedin.com/in/joao-sts" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:joaovdls@hotmail.com">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/5511960929880?text=Olá!%20Vi%20seu%20GitHub%20e%20quero%20falar%20com%20você" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/_ssldvj" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## Tecnologias
+## About
 
-### Frontend
-
-<div>
-  <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-
-### Backend
-
-<div>
-  <img alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img alt=".NET" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
-  <img alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-</div>
-
-### Mobile
-
-<div>
-  <img alt="React Native" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>
+Desenvolvedor Full Stack com experiência em construção de aplicações completas — do banco de dados à interface.
+Atuo com foco em **performance**, **boas práticas** e **escalabilidade**, cobrindo desde APIs e microsserviços até chatbots e pipelines de CI/CD em nuvem.
 
 ---
 
-## Chatbots & Automação
+## Stack
 
-- Desenvolvimento de chatbots com **Microsoft Bot Framework**
-- Criação de fluxos conversacionais com **BLiP**
-- Integração com APIs e serviços externos
-- Foco em automação de atendimento e experiência do usuário
+<table>
+  <tr>
+    <td valign="top" width="33%">
+
+**Frontend**
+<br/>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+</td>
+    <td valign="top" width="33%">
+
+**Backend**
+<br/>
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</td>
+    <td valign="top" width="33%">
+
+**Cloud & DevOps**
+<br/>
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+
+</td>
+  </tr>
+</table>
 
 ---
 
-## Cloud & DevOps
+## Especialidades
 
-- **Azure** — App Services, APIs e integrações
-- **AWS** — Serviços e infraestrutura em nuvem
-- **Azure DevOps** — Pipelines, CI/CD e versionamento
-- **Jira** — Gestão ágil e acompanhamento de tarefas
+| Área | Ferramentas |
+|---|---|
+| 📱 Mobile | React Native |
+| 🤖 Chatbots | Microsoft Bot Framework · BLiP |
+| ☁️ Cloud | Azure App Services · AWS · CI/CD |
+| 🔗 Integrações | APIs REST · Serviços externos |
 
 ---
 
-<div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExempyODNqOWV2a2tkYTRyaW00NDBobXprdnR1eWxha2Q2cnhsbnY4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="380px">
-</div>
+## GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://streak-stats.demolab.com?user=Joaovdls&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExempyODNqOWV2a2tkYTRyaW00NDBobXprdnR1eWxha2Q2cnhsbnY4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="360px"/>
+</p>
